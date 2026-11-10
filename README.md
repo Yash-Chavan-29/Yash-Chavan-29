@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:1e3a8a,100:0ea5e9&height=180&section=header&text=Yash%20P%20Chavan&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20%26%20Systems%20Architect&descSize=16&descAlignY=62&animation=fadeIn" alt="Yash P Chavan Header Banner" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer+%26+Systems+Architect;Building+Deterministic+Engines+%2B+Vector+RAG+Pipelines;BCA+'27+%40+KLE+Technological+University%2C+Hubballi;Team+Lead+%40+Team+Quantum+Cosmic" alt="Typing SVG" />
-  </a>
+  <img src="./banner.png" alt="Yash P Chavan — Full Stack & AI Systems Architect Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -25,7 +19,7 @@
 
 ## 💫 About Me
 
-* 🔭 **Currently working on:** **AegisCosmos** (3D satellite orbit & collision risk predictor) and [**Persona Chat AI**](https://github.com/Yash-Chavan-29/persona-chat-ai) (FastAPI + ChromaDB few-shot RAG powered by Google Gemini 2.5 Flash)
+* 🔭 **Currently working on:** **AegisCosmos** (3D satellite orbit & collision predictor), **SuryaJal™** (FAO-56 solar-aware agronomic digital twin), and [**Persona Chat AI**](https://github.com/Yash-Chavan-29/persona-chat-ai) (FastAPI + ChromaDB RAG agent)
 * 🎓 **Education:** Bachelor of Computer Applications (B.C.A.) @ **KLE Technological University, Hubballi** *(Batch of 2027)*
 * 👯 **Looking to collaborate on:** Full-Stack GenAI apps, real-time WebSocket systems, and competitive hackathons (**Hack Valley**, **Hack-A-Sol 5.0**)
 * 🤝 **Looking for help with:** Scaling interactive 3D WebGL experiences, vector search optimization, and distributed backend architecture
@@ -40,10 +34,13 @@
 | Project | Domain | Architecture & Key Impact | Core Stack |
 | :--- | :--- | :--- | :--- |
 | [**Persona Chat AI**](https://github.com/Yash-Chavan-29/persona-chat-ai) | GenAI / Vector RAG | FastAPI microservice parsing WhatsApp/Telegram logs into ChromaDB embeddings with PII redaction, Hinglish harmonization & realistic typing bursts. | `FastAPI` `ChromaDB` `Gemini 2.5` `Docker` |
-| **AegisCosmos** | Aerospace & 3D | Interactive orbital trajectory & conjunction predictor applying Keplerian 2-body mechanics & SGP4 propagation in 3D coordinate space. | `Python` `NumPy` `Streamlit` `Plotly 3D` |
-| **SuryaJal™ (ಸೂರ್ಯಜಲ)** | AgriTech & CleanTech | Solar-aware FAO-56 soil hydrology digital twin with 5 real-time optimization engines, Gemini Vision Scout & trilingual Indic voice copilot. | `Python` `Gemini Vision` `gTTS` `Plotly` |
-| **Convoy Coordinator** | Real-Time Systems | Live multi-vehicle GPS telemetry sync (`<50ms` WebSocket broadcast), Mapbox GL route clustering, geo-fence alerts & shared expense ledger. | `React` `Socket.io` `Mapbox GL` `Capacitor` |
-| **EventHub** | Full-Stack Web | Campus event management & automated organizer workflows featuring sub-2s cryptographic QR ticket verification & RBAC. | `React` `Node.js` `Express` `MongoDB` |
+| **SuryaJal™ (ಸೂರ್ಯಜಲ)** | AgriTech & CleanTech | Solar-aware FAO-56 soil hydrology digital twin with 5 real-time optimization engines, Gemini 2.5 Vision Scout & trilingual Indic voice copilot (`gTTS`). | `Python` `Streamlit` `Gemini Vision` `Plotly 3D` |
+| **AegisCosmos** | Aerospace & 3D | Interactive orbital trajectory & conjunction risk predictor applying Keplerian 2-body mechanics & SGP4 propagation in 3D coordinate space. | `Python` `NumPy` `Streamlit` `Plotly 3D` |
+| **Convoy Coordinator** | Real-Time Systems | Multi-vehicle GPS telemetry sync (`<50ms` WebSocket broadcast), Mapbox GL route clustering, geo-fence alerts & shared expense ledger. | `React` `Socket.io` `Mapbox GL` `Capacitor` |
+| **EventHub** | Full-Stack Web | Campus event ecosystem for discovery, registrations, RBAC organizer controls & automated Excel export built on MERN. | `React` `Node.js` `Express` `MongoDB` |
+| **AI Presentation Generator** | GenAI Automation | Natural-language brief to structured PowerPoint (`.pptx`) & PDF deck pipeline powered by Google Gemini AI & PptxGenJS / Puppeteer. | `Gemini AI` `Node.js` `PptxGenJS` `Puppeteer` |
+| **FITSync** | HealthTech & AI | Deterministic BMR/TDEE Mifflin-St Jeor nutrition calculator paired with Zod-validated Gemini meal & workout generation. | `React` `Express` `MongoDB` `Gemini` `Zod` |
+| **Vortex Stores & EcoStream** | Full-Stack MERN & Mobile | Responsive gadget e-commerce platform (`Docker Compose`) and cross-platform Android audio streamer (`Capacitor`). | `MERN` `Docker` `Capacitor` `Tailwind` |
 
 ---
 
@@ -97,8 +94,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Yash-Chavan-29&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Yash's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yash-Chavan-29&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Yash-Chavan-29&theme=dark&hide_border=true" alt="Yash's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Yash-Chavan-29&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
