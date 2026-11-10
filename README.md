@@ -19,35 +19,29 @@
 
 ## 💫 About Me
 
-* 🔭 **Currently working on:** **AegisCosmos** (3D satellite orbit & collision predictor), **SuryaJal™** (FAO-56 solar-aware agronomic digital twin), and [**Persona Chat AI**](https://github.com/Yash-Chavan-29/persona-chat-ai) (FastAPI + ChromaDB RAG agent)
+* 🔭 **Currently working on:** [**SuryaJal™**](https://github.com/Yash-Chavan-29/SuryaJal) (FAO-56 solar-aware agronomic digital twin), [**Persona Chat AI**](https://github.com/Yash-Chavan-29/persona-chat-ai) (FastAPI + ChromaDB RAG agent), and [**AegisCosmos**](https://github.com/Yash-Chavan-29/AegisCosmos) (orbital collision system architecture specification)
 * 🎓 **Education:** Bachelor of Computer Applications (B.C.A.) @ **KLE Technological University, Hubballi** *(Batch of 2027)*
-* 👯 **Looking to collaborate on:** Full-Stack GenAI apps, real-time WebSocket systems, and competitive hackathons (**Hack Valley**, **Hack-A-Sol 5.0**)
+* 👯 **Looking to collaborate on:** Full-Stack GenAI apps, real-time WebSocket systems, and scalable cloud-native software
 * 🤝 **Looking for help with:** Scaling interactive 3D WebGL experiences, vector search optimization, and distributed backend architecture
 * 🌱 **Currently learning:** Three.js / WebGL 3D, production Vector RAG pipelines, Docker, and system design
-* 💬 **Ask me about:** Python, FastAPI, React.js, Node.js, ChromaDB, Socket.io, or Keplerian orbital mechanics
-* ⚡ **Fun fact:** I turn complex math and late-night coffee into sub-50ms real-time apps and 3D space simulations 🚀
+* 💬 **Ask me about:** Python, FastAPI, React.js, Node.js, ChromaDB, Socket.io, or system architecture
+* ⚡ **Fun fact:** I turn complex math and late-night coffee into sub-50ms real-time apps and interactive 3D web experiences 🚀
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Engineering Projects *(Prioritized)*
 
-| Project | Domain | Architecture & Key Impact | Core Stack |
-| :--- | :--- | :--- | :--- |
-| [**Persona Chat AI**](https://github.com/Yash-Chavan-29/persona-chat-ai) | GenAI / Vector RAG | FastAPI microservice parsing WhatsApp/Telegram logs into ChromaDB embeddings with PII redaction, Hinglish harmonization & realistic typing bursts. | `FastAPI` `ChromaDB` `Gemini 2.5` `Docker` |
-| [**SuryaJal™ (ಸೂರ್ಯಜಲ)**](https://github.com/Yash-Chavan-29/SuryaJal) | AgriTech & CleanTech | Solar-aware FAO-56 soil hydrology digital twin with 5 real-time optimization engines, Gemini 2.5 Vision Scout & trilingual Indic voice copilot (`gTTS`). | `Python` `Streamlit` `Gemini Vision` `Plotly 3D` |
-| [**Convoy Coordinator**](https://github.com/Yash-Chavan-29/Convoy-Coordinator) | Real-Time Systems | Multi-vehicle GPS telemetry sync (`<50ms` WebSocket broadcast), Mapbox GL route clustering, geo-fence alerts & shared expense ledger. | `React` `Socket.io` `Mapbox GL` `Capacitor` |
-| [**EventHub**](https://github.com/Yash-Chavan-29/EventHub) | Full-Stack Web | Campus event ecosystem for discovery, registrations, RBAC organizer controls & QR attendance check-in built on MERN. | `React` `Node.js` `Express` `MongoDB` |
-| **AegisCosmos** | Aerospace & 3D | *(Prototype planned)* Orbital trajectory & conjunction risk predictor applying Keplerian 2-body mechanics & SGP4 propagation in 3D coordinate space. | `Python` `NumPy` `Streamlit` `Plotly 3D` |
-| **AI Presentation Generator** | GenAI Automation | Natural-language brief to structured PowerPoint (`.pptx`) & PDF deck pipeline powered by Google Gemini AI & PptxGenJS / Puppeteer. | `Gemini AI` `Node.js` `PptxGenJS` `Puppeteer` |
-| **FITSync** | HealthTech & AI | Deterministic BMR/TDEE Mifflin-St Jeor nutrition calculator paired with Zod-validated Gemini meal & workout generation. | `React` `Express` `MongoDB` `Gemini` `Zod` |
-| **Vortex Stores & EcoStream** | Full-Stack MERN & Mobile | Responsive gadget e-commerce platform (`Docker Compose`) and cross-platform Android audio streamer (`Capacitor`). | `MERN` `Docker` `Capacitor` `Tailwind` |
-
----
-
-## 🏆 Hackathons & Highlights
-
-* 🥇 **StarForge National Hackathon (BMSITM, Bengaluru):** Round 1 Finalist (**100/100 Technical Audit Score**)
-* ⚡ **Team Lead @ Team Quantum Cosmic:** Directing system architecture, deterministic computation layers, and AI pair-programming sprints across national 24-hour & 36-hour hackathons (**Hack Valley**, **Hack-A-Sol 5.0**)
+| Priority | Project | Domain | Architecture & Key Impact | Core Stack |
+| :---: | :--- | :--- | :--- | :--- |
+| **#1** | [**SuryaJal™ (ಸೂರ್ಯಜಲ)**](https://github.com/Yash-Chavan-29/SuryaJal) | AgriTech & CleanTech | Solar-aware FAO-56 soil hydrology digital twin with 5 real-time optimization engines, Gemini 2.5 Vision Scout & trilingual Indic voice copilot (`gTTS`). | `Python` `Streamlit` `Gemini Vision` `Plotly 3D` |
+| **#2** | [**Persona Chat AI**](https://github.com/Yash-Chavan-29/persona-chat-ai) | GenAI / Vector RAG | FastAPI microservice parsing WhatsApp/Telegram logs into ChromaDB embeddings with PII redaction, Hinglish harmonization & realistic typing bursts. | `FastAPI` `ChromaDB` `Gemini 2.5` `Docker` |
+| **#3** | [**Convoy Coordinator**](https://github.com/Yash-Chavan-29/Convoy-Coordinator) | Real-Time Systems | Multi-vehicle GPS telemetry sync via WebSockets (`socket.io`), Mapbox GL live tracking, route coordination & shared expense ledger with Capacitor Android support. | `React` `Socket.io` `Mapbox GL` `Capacitor` |
+| **#4** | [**FITSync**](https://github.com/Yash-Chavan-29/FITSync) | HealthTech & AI | Deterministic BMR/TDEE Mifflin-St Jeor nutrition calculator paired with Zod-validated Gemini meal & workout generation (`14/14` Jest tests). | `React` `Express` `MongoDB` `Gemini` `Zod` |
+| **#5** | [**EventHub**](https://github.com/Yash-Chavan-29/EventHub) | Full-Stack Web | Campus event ecosystem for discovery, registrations, RBAC organizer controls & admin auditing dashboard built on MERN. | `React` `Node.js` `Express` `MongoDB` |
+| **#6** | [**AI Presentation Generator**](https://github.com/Yash-Chavan-29/AI-Presentation-Generator) | GenAI Automation | Natural-language brief & source code to structured PowerPoint (`.pptx`) & PDF deck pipeline powered by Google Gemini AI & PptxGenJS / Puppeteer. | `Gemini AI` `Node.js` `PptxGenJS` `Puppeteer` |
+| **#7** | [**Vortex Stores & EcoStream**](https://github.com/Yash-Chavan-29/Vortex-Stores-EcoStream) | Full-Stack MERN & Mobile | Responsive gadget e-commerce platform (`Docker Compose`) and cross-platform Android audio streamer (`Capacitor`). | `MERN` `Docker` `Capacitor` `Tailwind` |
+| **#8** | [**3D Space Portfolio**](https://github.com/Yash-Chavan-29/3D-Space-Portfolio) | WebGL & Creative UI | Interactive 3D starfield developer showcase featuring simulation modals and an embedded `Yash Shell` interactive CLI (`Three.js` + `Tailwind`). | `Three.js` `WebGL` `Tailwind` `HTML5` |
+| **#9** | [**AegisCosmos**](https://github.com/Yash-Chavan-29/AegisCosmos) | Aerospace Architecture | *(Architecture & Spec Package)* Orbital conjunction shield blueprint, interactive system visualizer & evaluator utilities. | `Architecture` `HTML5` `Python` `Specs` |
 
 ---
 
